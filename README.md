@@ -4,7 +4,7 @@
 Skills:  HTML / CSS / JS / PHP/Laravel
 
 - 🔭 I’m currently working on @templatecookie 
-- 🌱 I’m currently learning VUE JS
+- 🌱 I’m currently learning React JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/awal2645)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/awal2645/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/awal2645)  
