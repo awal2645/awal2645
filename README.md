@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Awal
+### Hi there 👋, My name is Awal
 #### I am Software Developer
 
 Skills:  HTML / CSS / JS / PHP/Laravel
